@@ -41,10 +41,10 @@ body:before
 	justify-content:center;
 	text-align:center;
 	font-family:sans-serif;
-	color:#bc8dbc;
+	color:#eadcea;
 	letter-spacing:4px;
 	text-transform:uppercase;
-	text-shadow:0 0 10px #fff000;
+	text-shadow:0 0 10px #875bae;
 	box-shadow:0 0 20px rgba(0,0,0,.5);
 }
 #indicator:before
